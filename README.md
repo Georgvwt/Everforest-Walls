@@ -2,7 +2,7 @@
 My personal collection of everforest wallpapers
 
 <p align="center">
-  <img src="everforest-wallpaper 201.png" width="100%" />
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%201.png" width="100%" />
 </p>
 <p align="center">
   <img src="everforest-wallpaper 2.png" width="100%" />
