@@ -278,3 +278,33 @@ My personal collection of everforest wallpapers.
 <p align="center">
   <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2092.png" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2093.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2094.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2095.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2096.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2097.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2098.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2099.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%20100.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%20101.png" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%20102.png" width="100%" />
+</p>
