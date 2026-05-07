@@ -279,7 +279,7 @@ My personal collection of everforest wallpapers.
   <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%20103.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2092.png" width="100%" />
+  <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%209.png" width="100%" />
 </p>
 <p align="center">
   <img src="https://github.com/Georgvwt/Everforest-Walls/blob/main/Everforest-Wallpapers/everforest-wallpaper%2093.png" width="100%" />
